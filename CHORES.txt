@@ -1,0 +1,7 @@
+[]	Paper sketch pages & proposed URLs
+[]	Plan static HTML
+[]	Itemize components w/sub components
+[]	Static HTML with Ipsum
+[]	Redux (toolkit?)
+[]	Component breakout
+[]	ongoing
