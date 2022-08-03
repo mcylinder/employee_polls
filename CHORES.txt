@@ -2,6 +2,6 @@
 []	Plan static HTML
 []	Itemize components w/sub components
 []	Static HTML with Ipsum
-[]	Redux (toolkit?)
+[]	Redux ([x]toolkit)
 []	Component breakout
 []	ongoing
